@@ -9,7 +9,9 @@ Consumo de APIs (REST)
 Escopo do projeto:
 ![image](https://user-images.githubusercontent.com/68930974/167489410-f1945338-9748-47ae-8056-bd56fa7740a3.png)
 
-Tela final do App simulada dentro do Android Studio
+
+
+Tela final do App simulada dentro do Android Studio:
 
 ![image](https://user-images.githubusercontent.com/68930974/167489591-3cbe8d39-f7fd-4b58-b1a9-ae10e7515f08.png)
 ![image](https://user-images.githubusercontent.com/68930974/167489621-80a12d16-98f5-4402-b3a8-f4890aab6fcc.png)
