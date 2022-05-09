@@ -1,4 +1,4 @@
-Terceira parte do projeto Full Stack - Santander Dev Week. Essa parte consiste na Front-End para celulares Android, onde foi criado um App nativo do zero no Android Studio que consumirá a Bankline-API (https://github.com/carlosaugustodpacheco/bankline-api) desenvolvida com Springboot e disponibilizada no Heroku que propõe um Bankline para gestão de correntistas e movimentações de receitas e despesas simples.
+Terceira parte do projeto Full Stack - Santander Dev Week. Essa parte consiste na Front-End para celulares Android, onde foi criado um App nativo do zero no Android Studio que consumirá a Bankline-API (https://github.com/carlosaugustodpacheco/bankline-api) desenvolvida com Springboot que propõe um Bankline para gestão de correntistas e movimentações de receitas e despesas simples.
 
 Para o desenvolvimento do App Mobile, foi utilizado a linguagem Kotlin e explorado os conceitos:
 Orientação a Objetos (OO)
